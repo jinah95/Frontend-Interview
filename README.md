@@ -28,8 +28,8 @@
 
 * * *
 ## 👭 Contributor
-  * 박진아(jinah95) <http://example.com/> <br /> 
-  * 안민영(aldrn29) <http://example.com/> <br/>
+  * 박진아(jinah95) => [Git](https://github.com/jinah95) <br />
+  * 안민영(aldrn29) => [Git](https://github.com/aldrn29) <br/>
    * * *
 ## 📩 Contact to we 
   * 박진아(jinah95) : tbrk85853@gmail.com <br />
