@@ -7,7 +7,7 @@
 
 네트워크에 대해서는 다음과 같은 것들에 대해 알아야합니다.
 
--   네트워크 작동 원리 OSI 7계층
+-   [네트워크 작동 원리 OSI 7계층](https://github.com/jinah95/Frontend-Interview/blob/f747974244d444436c45cb81485ac5ca4023d21a/Network/OSI%207%EA%B3%84%EC%B8%B5.md)
 -   IP (Internet Protocol Address)
 -   TCP/UDP
 -   PORT
