@@ -8,14 +8,12 @@
 네트워크에 대해서는 다음과 같은 것들에 대해 알아야합니다.
 
 -   [네트워크 작동 원리 OSI 7계층](https://github.com/jinah95/Frontend-Interview/blob/f747974244d444436c45cb81485ac5ca4023d21a/Network/OSI%207%EA%B3%84%EC%B8%B5.md)
--   IP (Internet Protocol Address)
--   TCP/UDP
--   PORT
+-   [IP (Internet Protocol Address)](https://github.com/jinah95/Frontend-Interview/blob/main/Network/IP.md)
+-   [TCP/UDP](https://github.com/jinah95/Frontend-Interview/blob/main/Network/TCP%26UDP.md)
+-   [PORT](https://github.com/jinah95/Frontend-Interview/blob/main/Network/PORT.md)
 -   DNS
 -   웹 브라우저 요청 흐름
 -   HTTP / HTTPS
 
 더 많은 것들이 있지만 우선 이 정도로 알아봅시다. <br />
 클릭하여 이동해봅시다!
-
-

@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/97212459/183561656-046026c5-6703-4071-992d-cbde3dbd3dfc.PNG" width="500" height="320"><br />
 [이미지 출처](https://velog.io/@nellholic108/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-OSI-7-%EA%B3%84%EC%B8%B5)<br />
 IP에서 프로그램 구분이 안 된다는 얘기를 했었는데요. 동시에 게임, 웹툰, 보이스톡을 한다고 했을 때, 서버의 경우 요청들이 동시에 이루어지므로 구분이 필요합니다. <BR />
-이때, 포트번호를 부여해주면 해당 데이터는 해당 포트로만 통신이 되는 방식이며, 포트 번호 정보는 TCP에 기록 되어 전송 됩니다.
+이때, 포트번호를 부여해주면 해당 데이터는 해당 포트로만 통신이 되는 방식이며, 포트 번호 정보는 [TCP](https://github.com/jinah95/Frontend-Interview/blob/main/Network/TCP%26UDP.md)에 기록 되어 전송 됩니다.
 
 <br />
 ** HTTP나 HTTPS 에 해당하는 포트가 정해져 있는데 용도에 따라 포트번호를 저장하는 것이 가능한지 아래에서 알아 봅시다. <br /> 포트번호를 지정하는 건 개발자가 지정합니다.<br />별도의 지정이 없다면 HTTP는 80, HTTPS는 443 포트로 기본 디폴트값이 배정됩니다.
