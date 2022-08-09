@@ -18,8 +18,8 @@
 - ( + ) 실제 면접 사례 ( Html / CSS / JavaScript / etc )<br /><br />
 * * *
 
-## 1️⃣ Computer Architecture  
-## 2️⃣ Network   
+## 1️⃣ [Computer Architecture](https://github.com/jinah95/Frontend-Interview/tree/main/Computer%20Architecture)  
+## 2️⃣ [Network](https://github.com/jinah95/Frontend-Interview/tree/main/Network )   
 ## 3️⃣ Operating System  
 ## 4️⃣ Software Engineering  
 ## 5️⃣ Language 
