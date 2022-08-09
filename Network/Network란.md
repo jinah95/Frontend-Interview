@@ -11,7 +11,8 @@
 -   [IP (Internet Protocol Address)](https://github.com/jinah95/Frontend-Interview/blob/main/Network/IP.md)
 -   [TCP/UDP](https://github.com/jinah95/Frontend-Interview/blob/main/Network/TCP%26UDP.md)
 -   [PORT](https://github.com/jinah95/Frontend-Interview/blob/main/Network/PORT.md)
--   DNS
+-   [DNS](https://github.com/jinah95/Frontend-Interview/blob/main/Network/DNS.md)
+-   URI / URN / URL
 -   웹 브라우저 요청 흐름
 -   HTTP / HTTPS
 

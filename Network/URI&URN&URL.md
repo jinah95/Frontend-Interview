@@ -1,0 +1,34 @@
+## 🧿 URI / URN / URL
+
+URL 말고 URI, URN은 무엇일까요? 그동안 저희가 알고있던 URL 말고 다른게 더 있다니 알아보시죠!
+
+<img src="https://user-images.githubusercontent.com/97212459/183586525-060d86d4-d1eb-4cad-9f17-bd4b07425c18.png" width="600" height="200"><br /><br />
+
+### 📍 URI
+
+URI는
+
+-   Uniform : 리소스 식별하는 통일된 방식
+-   Resource : 자원, URI로 식별할 수 있는 모든 것 (제한 없음)
+-   Identifier : 다른 항목과 구분하는데 필요한 정보<br /><br />
+    즉, <b>리소스를 다른 것과 구분할 수 있는 통일된 방식</b>을 의미합니다.<br /><br />
+    URL과 URN의 차이는 <b>Locator(리소스의 위치를 부여)</b>와 <b>Name(리소스의 이름을 부여)</b>의 차이입니다. <br />
+    둘의 대표적인 차이점은 <b>위치는 변할 수 있지만 이름은 바뀔 수 없다는 것입니다. </b> <br />
+    URN은 대표적으로 ISBN(책 정보 등록된 일련의 숫자)에 사용됩니다, 다만 URN만으로 리소스를 찾는 방법이 보편화되어있지 않아 URL로 이야기하는 경우가 대다수 입니다. <br /><br />
+
+### 📍 URL 구성
+
+형태 <br /> 👉 sheme://[userinfo@]host[:port][/path][?query][#fragment]<br />
+<img src="https://user-images.githubusercontent.com/97212459/183589839-0f4bcb41-b2d1-4b2e-9fa5-64df2f7df92e.png" width="650" height="100"><br /><br />
+
+-   sheme : 주로 프로토콜이 사용됩니다. <br />ex ) http, https, ftp
+-   userinfo : URL에 사용자정보를 포함해서 인증을 하나 거의 사용하지 않는다고 합니다.
+-   host : 호스트명이고 도메인명 또는 IP주소를 직접 사용 가능합니다.
+-   PORT : http(80포트), https(443포트)를 주로 사용하고 생략이 가능합니다. <br /> http와 https의 차이점은 https가 좀 더 보안요소가 추가되었다고 생각하면 됩니다.
+-   path : 리소스에 접근하는 경로 입니다. <br />ex ) file.jpg, members/100
+-   query : 주로 key=value 형태이고 ?로 시작하고 &로 추가 가능합니다. <br />주로 query parameter, query string으로 불립니다.
+-   fragment : html내부 북마크 등에 사용을 하나 서버에 전송하는 정보는 아닙니다. <br /><br />
+
+### 🔗 참고 출처
+
+[velog](https://velog.io/@nellholic108/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC#%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90)
