@@ -71,10 +71,11 @@ Context API에 대해 설명해주세요.
 브라우저 주소창에 www.google.com을 입력하면 어떤 일이 일어날까?  
 브라우저는 어떻게 동작하나요?  
 REST API란?  
-★GET, POST가 어떻게 다른지 설명해주세요.  
+GET, POST가 어떻게 다른지 설명해주세요.  
 Restful API에 대해서 아는대로 설명해주세요. (GET, PUT, POST, PATCH, OPTION, DELETE)
 DNS란?  
 Webpack, Babel, Polyfill에 대해 설명해주세요.  
+Web Server와 WAS의 차이는?  
 CSR, SSR의 차이는?  
 CORS는 무엇인지, 이를 처리해본 경험은?  
 크로스 브라우징 경험이 있나요?  
@@ -90,3 +91,10 @@ bundle의 사이즈를 줄이려면 어떻게 해야하나요?
 타입스크립트를 사용하는 이유는?  
 웹 소켓을 사용해보셨나요?  
 웹사이트 성능 최적화에는 어떤 방법이 있나요?  
+MVC 패턴이란?  
+
+
+## 그 외
+협업에 대해서 어떻게 생각하시나요?  
+협업을 하면서 어려웠던 것은 무엇이 있나요?  
+Frontend 향상을 위해 어떤 노력을 할 건가요?  
